@@ -1,0 +1,79 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\USER\OneDrive\User\AndroidStudioProjects\QuakeReport\app\src\main\AndroidManifest.xml:16:1-42:12
+	package
+		ADDED from C:\Users\USER\OneDrive\User\AndroidStudioProjects\QuakeReport\app\src\main\AndroidManifest.xml:17:5-46
+		INJECTED from C:\Users\USER\OneDrive\User\AndroidStudioProjects\QuakeReport\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\USER\OneDrive\User\AndroidStudioProjects\QuakeReport\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\USER\OneDrive\User\AndroidStudioProjects\QuakeReport\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\USER\OneDrive\User\AndroidStudioProjects\QuakeReport\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\USER\OneDrive\User\AndroidStudioProjects\QuakeReport\app\src\main\AndroidManifest.xml:16:11-69
+	android:versionCode
+		INJECTED from C:\Users\USER\OneDrive\User\AndroidStudioProjects\QuakeReport\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\USER\OneDrive\User\AndroidStudioProjects\QuakeReport\app\src\main\AndroidManifest.xml
+uses-permission#android.permission.INTERNET
+ADDED from C:\Users\USER\OneDrive\User\AndroidStudioProjects\QuakeReport\app\src\main\AndroidManifest.xml:18:5-67
+	android:name
+		ADDED from C:\Users\USER\OneDrive\User\AndroidStudioProjects\QuakeReport\app\src\main\AndroidManifest.xml:18:22-64
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from C:\Users\USER\OneDrive\User\AndroidStudioProjects\QuakeReport\app\src\main\AndroidManifest.xml:19:5-79
+	android:name
+		ADDED from C:\Users\USER\OneDrive\User\AndroidStudioProjects\QuakeReport\app\src\main\AndroidManifest.xml:19:22-76
+application
+ADDED from C:\Users\USER\OneDrive\User\AndroidStudioProjects\QuakeReport\app\src\main\AndroidManifest.xml:21:5-40:19
+MERGED from [com.android.support:appcompat-v7:23.3.0] C:\Users\USER\.android\build-cache\ce034838c138f5ad931e9aeb9eb13ae665e6f886\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:animated-vector-drawable:23.3.0] C:\Users\USER\.android\build-cache\282bc36edc0d4103ce4037846ace87e192d04847\output\AndroidManifest.xml:7:5-20
+MERGED from [com.android.support:support-vector-drawable:23.3.0] C:\Users\USER\.android\build-cache\7af6589c8f025082363f3f2847c78f3ee198cf33\output\AndroidManifest.xml:7:5-20
+MERGED from [com.android.support:support-v4:23.3.0] C:\Users\USER\.android\build-cache\b4fba442e175cab6e41604fda4bf54857cf0090a\output\AndroidManifest.xml:22:5-20
+	android:label
+		ADDED from C:\Users\USER\OneDrive\User\AndroidStudioProjects\QuakeReport\app\src\main\AndroidManifest.xml:24:9-41
+	android:supportsRtl
+		ADDED from C:\Users\USER\OneDrive\User\AndroidStudioProjects\QuakeReport\app\src\main\AndroidManifest.xml:25:9-35
+	android:allowBackup
+		ADDED from C:\Users\USER\OneDrive\User\AndroidStudioProjects\QuakeReport\app\src\main\AndroidManifest.xml:22:9-35
+	android:icon
+		ADDED from C:\Users\USER\OneDrive\User\AndroidStudioProjects\QuakeReport\app\src\main\AndroidManifest.xml:23:9-43
+	android:theme
+		ADDED from C:\Users\USER\OneDrive\User\AndroidStudioProjects\QuakeReport\app\src\main\AndroidManifest.xml:26:9-40
+activity#com.example.android.quakereport.EarthquakeActivity
+ADDED from C:\Users\USER\OneDrive\User\AndroidStudioProjects\QuakeReport\app\src\main\AndroidManifest.xml:27:9-32:20
+	android:name
+		ADDED from C:\Users\USER\OneDrive\User\AndroidStudioProjects\QuakeReport\app\src\main\AndroidManifest.xml:27:19-53
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from C:\Users\USER\OneDrive\User\AndroidStudioProjects\QuakeReport\app\src\main\AndroidManifest.xml:28:13-31:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\USER\OneDrive\User\AndroidStudioProjects\QuakeReport\app\src\main\AndroidManifest.xml:29:17-69
+	android:name
+		ADDED from C:\Users\USER\OneDrive\User\AndroidStudioProjects\QuakeReport\app\src\main\AndroidManifest.xml:29:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\USER\OneDrive\User\AndroidStudioProjects\QuakeReport\app\src\main\AndroidManifest.xml:30:17-77
+	android:name
+		ADDED from C:\Users\USER\OneDrive\User\AndroidStudioProjects\QuakeReport\app\src\main\AndroidManifest.xml:30:27-74
+activity#com.example.android.quakereport.SettingsActivity
+ADDED from C:\Users\USER\OneDrive\User\AndroidStudioProjects\QuakeReport\app\src\main\AndroidManifest.xml:33:9-39:20
+	android:label
+		ADDED from C:\Users\USER\OneDrive\User\AndroidStudioProjects\QuakeReport\app\src\main\AndroidManifest.xml:35:13-51
+	android:name
+		ADDED from C:\Users\USER\OneDrive\User\AndroidStudioProjects\QuakeReport\app\src\main\AndroidManifest.xml:34:13-45
+meta-data#android.support.PARENT_ACTIVITY
+ADDED from C:\Users\USER\OneDrive\User\AndroidStudioProjects\QuakeReport\app\src\main\AndroidManifest.xml:36:13-38:85
+	android:value
+		ADDED from C:\Users\USER\OneDrive\User\AndroidStudioProjects\QuakeReport\app\src\main\AndroidManifest.xml:38:17-83
+	android:name
+		ADDED from C:\Users\USER\OneDrive\User\AndroidStudioProjects\QuakeReport\app\src\main\AndroidManifest.xml:37:17-63
+uses-sdk
+INJECTED from C:\Users\USER\OneDrive\User\AndroidStudioProjects\QuakeReport\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [com.android.support:appcompat-v7:23.3.0] C:\Users\USER\.android\build-cache\ce034838c138f5ad931e9aeb9eb13ae665e6f886\output\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:animated-vector-drawable:23.3.0] C:\Users\USER\.android\build-cache\282bc36edc0d4103ce4037846ace87e192d04847\output\AndroidManifest.xml:5:5-44
+MERGED from [com.android.support:support-vector-drawable:23.3.0] C:\Users\USER\.android\build-cache\7af6589c8f025082363f3f2847c78f3ee198cf33\output\AndroidManifest.xml:5:5-43
+MERGED from [com.android.support:support-v4:23.3.0] C:\Users\USER\.android\build-cache\b4fba442e175cab6e41604fda4bf54857cf0090a\output\AndroidManifest.xml:20:5-43
+	tools:overrideLibrary
+		ADDED from [com.android.support:appcompat-v7:23.3.0] C:\Users\USER\.android\build-cache\ce034838c138f5ad931e9aeb9eb13ae665e6f886\output\AndroidManifest.xml:23:9-75
+	android:targetSdkVersion
+		INJECTED from C:\Users\USER\OneDrive\User\AndroidStudioProjects\QuakeReport\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\USER\OneDrive\User\AndroidStudioProjects\QuakeReport\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\USER\OneDrive\User\AndroidStudioProjects\QuakeReport\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\USER\OneDrive\User\AndroidStudioProjects\QuakeReport\app\src\main\AndroidManifest.xml
